@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+demo.sh
+SCRIPT.md
+bandit_output.json
