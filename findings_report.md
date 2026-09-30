@@ -4,7 +4,7 @@
 **Language:** Python 3 (Flask)
 **Tools used:** bandit 1.9.4 (static analysis) + manual review
 **Scan command:** `bandit -r target_app`
-**Raw evidence:** `bandit_output.txt`, `bandit_output.json`
+**Raw evidence:** `bandit_output.txt`
 **Date:** 2026-09-26
 
 ---
